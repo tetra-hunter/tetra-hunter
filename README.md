@@ -103,3 +103,6 @@ Start with the [FAQ](https://www.tetrahunter.eu/faq/) or the [setup guide](https
 
 This repository is the official product overview, not the application source code. Tetra Hunter is commercial, closed-source software. It is not an open-source TETRA demodulator or a voice-decoding project.
 
+
+
+<sub>Looking into Airwave, ASTRID or C2000? See our [TETRA detection guide](TETRA-DETECTION-GUIDE.md) before choosing a setup: a network name alone does not establish compatibility.</sub>
