@@ -106,3 +106,10 @@ This repository is the official product overview, not the application source cod
 
 
 <sub>Looking into Airwave, ASTRID or C2000? See our [TETRA detection guide](TETRA-DETECTION-GUIDE.md) before choosing a setup: a network name alone does not establish compatibility.</sub>
+
+
+## More guides from our blog
+
+- [RTL-SDR dongle guide: V4, V4L or V3](https://www.tetrahunter.eu/blog/rtl-sdr-dongle/) - Hardware choices, getting started and Android projects.
+- [Target Blu Eye 2: price, models and an alternative](https://www.tetrahunter.eu/blog/target-blu-eye-alternative/) - Compare dedicated detectors with an Android-and-RTL-SDR setup.
+- [Police scanner UK: what can a radio scanner still hear?](https://www.tetrahunter.eu/blog/radio-scanner/) - Understand the difference between listening to radio and detecting radio presence.
