@@ -1,4 +1,4 @@
-<a href="https://www.tetrahunter.eu/"><img src="assets/github-hero.png" width="1280" alt="Tetra Hunter - An Android app that detects nearby emergency vehicles, with RTL-SDR hardware. A real member's installation."></a>
+<a href="https://www.tetrahunter.eu/"><img src="assets/github-hero.png" width="640" alt="Tetra Hunter - An Android app that detects nearby emergency vehicles, with RTL-SDR hardware. A real member's installation."></a>
 
 <p align="center">
   <a href="https://www.tetrahunter.eu/"><b>Website</b></a> &nbsp; | &nbsp;
@@ -20,27 +20,27 @@ You need compatible USB radio hardware as well as the app. Your phone alone is n
 
 These are the same member photos featured on our website. Different phones, different cars, the same app.
 
-<a href="https://www.tetrahunter.eu/setup/"><img src="assets/github-setups.png" width="1280" alt="Six real member setups: a dashboard-mounted phone, two RTL-SDR receivers with a USB hub, a member's phone, a dashboard receiver, a glovebox installation and an interior antenna."></a>
+<a href="https://www.tetrahunter.eu/setup/"><img src="assets/github-setups.png" width="640" alt="Six real member setups: a dashboard-mounted phone, two RTL-SDR receivers with a USB hub, a member's phone, a dashboard receiver, a glovebox installation and an interior antenna."></a>
 
 [See the kit and more member setups](https://www.tetrahunter.eu/setup/) or [watch footage from our members](https://www.tetrahunter.eu/members-footage/).
 
-<img src="assets/github-community.png" width="1280" alt="Our community. Follow the project. Be part of it.">
+<img src="assets/github-community.png" width="640" alt="Our community. Follow the project. Be part of it.">
 
 **60+ daily users. 400+ Discord members.** Ask questions, share your installation and see how other people use it.
 
-<a href="https://www.tetrahunter.eu/"><img src="assets/github-website.png" width="1280" alt="The official website: tetrahunter.eu"></a>
+<a href="https://www.tetrahunter.eu/"><img src="assets/github-website.png" width="640" alt="The official website: tetrahunter.eu"></a>
 
 <p>
-  <a href="https://discord.gg/nZPvbwzSpk"><img src="assets/github-discord.png" width="49%" alt="Discord - support and setups: discord.gg/nZPvbwzSpk"></a>
-  <a href="https://www.tiktok.com/@tetrahunter1"><img src="assets/github-tiktok.png" width="49%" alt="TikTok - on the road: @tetrahunter1"></a>
+  <a href="https://discord.gg/nZPvbwzSpk"><img src="assets/github-discord.png" width="300" alt="Discord - support and setups: discord.gg/nZPvbwzSpk"></a>
+  <a href="https://www.tiktok.com/@tetrahunter1"><img src="assets/github-tiktok.png" width="300" alt="TikTok - on the road: @tetrahunter1"></a>
 </p>
 <p>
-  <a href="https://www.instagram.com/tetra.hunter/"><img src="assets/github-instagram.png" width="49%" alt="Instagram - news and updates: @tetra.hunter"></a>
-  <a href="https://github.com/tetra-hunter/tetra-hunter"><img src="assets/github-github.png" width="49%" alt="GitHub - project overview: tetra-hunter/tetra-hunter"></a>
+  <a href="https://www.instagram.com/tetra.hunter/"><img src="assets/github-instagram.png" width="300" alt="Instagram - news and updates: @tetra.hunter"></a>
+  <a href="https://github.com/tetra-hunter/tetra-hunter"><img src="assets/github-github.png" width="300" alt="GitHub - project overview: tetra-hunter/tetra-hunter"></a>
 </p>
 <p>
-  <a href="https://www.rdforum.org/threads/153451/"><img src="assets/github-rdforum.png" width="49%" alt="RDForum - join the discussion: rdforum.org/threads/153451"></a>
-  <a href="mailto:support@tetrahunter.eu"><img src="assets/github-email.png" width="49%" alt="Contact us - questions and support: support@tetrahunter.eu"></a>
+  <a href="https://www.rdforum.org/threads/153451/"><img src="assets/github-rdforum.png" width="300" alt="RDForum - join the discussion: rdforum.org/threads/153451"></a>
+  <a href="mailto:support@tetrahunter.eu"><img src="assets/github-email.png" width="300" alt="Contact us - questions and support: support@tetrahunter.eu"></a>
 </p>
 
 ## Questions or setup help?
