@@ -54,15 +54,15 @@ Need help? Start with the [FAQ](https://www.tetrahunter.eu/faq/), join Discord o
 
 - [TETRA detection with Android and RTL-SDR](TETRA-DETECTION-GUIDE.md): what an alert means and how to choose a setup.
 - [RTL-SDR dongle guide: V4, V4L or V3](https://www.tetrahunter.eu/blog/rtl-sdr-dongle/): hardware choices and Android projects.
-- [Target Blu Eye 2: price, models and an alternative](https://www.tetrahunter.eu/blog/target-blu-eye-alternative/): dedicated detectors compared with an Android-and-RTL-SDR setup.
+- [Hardware detector or Android setup?](https://www.tetrahunter.eu/blog/hardware-detector-or-android/): equipment, installation, costs and detection limits.
 - [Police scanner UK: what can a radio scanner still hear?](https://www.tetrahunter.eu/blog/radio-scanner/): listening to radio versus detecting radio presence.
 
 <details>
 <summary>Comparing detectors and radio networks</summary>
 
-If you are looking for a police detector or a Target Blu Eye alternative, Tetra Hunter offers an Android-and-RTL-SDR setup. It detects TETRA radio presence, not a vehicle's identity or which emergency service is transmitting.
+If you are looking for a police detector, Tetra Hunter offers an Android-and-RTL-SDR setup. It detects compatible TETRA radio activity, not a vehicle's identity or which emergency service is transmitting. A silent or incompatible radio cannot be detected.
 
-[Compare Tetra Hunter and Target Blu Eye](https://www.tetrahunter.eu/tetra-hunter-vs-competitors/). Tetra Hunter is independent and is not affiliated with Target Blu Eye.
+[Compare traditional hardware competitors, Tetra Hunter and driving apps](https://www.tetrahunter.eu/tetra-hunter-vs-competitors/). Equipment, features and costs vary by device.
 
 Looking into Airwave, ASTRID or C2000? Read the [TETRA detection guide](TETRA-DETECTION-GUIDE.md) first: a network name alone does not establish compatibility.
 
