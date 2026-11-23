@@ -30,6 +30,12 @@ Free apps that beep for nothing? Or only once the cop car is already next to you
 - 🔄 **Always getting better.** Updates land straight in the app.
 - 💬 **A real crew behind it.** 450+ members on Discord, a step-by-step [setup guide](https://www.tetrahunter.eu/setup/) and email support.
 
+## Real detections on the road
+
+Five real detections filmed by our members: on a motorbike by night and by day, police at a junction, a police car from the left and an ambulance on the motorway. 🔊 Sound on.
+
+https://github.com/user-attachments/assets/c2cb0666-c216-40f1-888d-1768d731a70f
+
 ## TETRA detection with Android and RTL-SDR
 
 Connect an RTL-SDR (software-defined radio) kit to your phone. Tetra Hunter checks for nearby TETRA radio activity and gives you an audible alert and a coloured signal bar. It helps you notice ambulances, fire trucks and police vehicles, including unmarked cars.
