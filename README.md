@@ -32,11 +32,9 @@ Free apps that beep for nothing? Or only once the cop car is already next to you
 
 ## Real detections on the road
 
-Five real detections filmed by our members: on a motorbike by night and by day, police at a junction, a police car from the left and an ambulance on the motorway. Tap to watch, 🔊 sound on.
+Five real detections filmed by our members: on a motorbike by night and by day, police at a junction, a police car from the left and an ambulance on the motorway. 🔊 Sound on.
 
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/c2cb0666-c216-40f1-888d-1768d731a70f"><img src="assets/real-detections-teaser.gif" width="300" alt="Five real detections filmed by Tetra Hunter members. Tap to watch the full 52-second video."></a>
-</p>
+https://github.com/user-attachments/assets/e322dfbd-b2f2-48fd-a8a3-1d0963ad33bb
 
 ## TETRA detection with Android and RTL-SDR
 
