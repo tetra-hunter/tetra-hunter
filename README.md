@@ -6,7 +6,7 @@
 
 <p align="center"><strong>The premium TETRA detector for Android.<br>Know when police, ambulances and fire trucks are nearby, before you hear the sirens.</strong></p>
 
-<p align="center">Trusted every day by 60+ drivers · 400+ members on Discord · Proven on real roads</p>
+<p align="center"><img src="assets/stats.png" width="720" alt="65+ daily drivers, 450+ Discord members, 700+ followers and 150K+ views on our socials"></p>
 
 <p align="center">
   <a href="https://www.tetrahunter.eu/">Website</a> &nbsp;·&nbsp;
@@ -28,7 +28,7 @@ Free apps that beep for nothing? Or only once the cop car is already next to you
 - 🚗 **Plug in, press Start, drive.** A clear 15-light bar, loud beeps on your phone or car Bluetooth, City and Highway modes.
 - 🎥 **Proof, not promises.** Our members post their setups and [real-road videos](https://www.tetrahunter.eu/members-footage/) from their own cars.
 - 🔄 **Always getting better.** Updates land straight in the app.
-- 💬 **A real crew behind it.** 400+ members on Discord, a step-by-step [setup guide](https://www.tetrahunter.eu/setup/) and email support.
+- 💬 **A real crew behind it.** 450+ members on Discord, a step-by-step [setup guide](https://www.tetrahunter.eu/setup/) and email support.
 
 ## TETRA detection with Android and RTL-SDR
 
@@ -96,14 +96,16 @@ Tetra Hunter runs on Android only. Got an iPhone? Many members keep a cheap seco
 
 ## Community and support
 
-**60+ daily users · 400+ Discord members.** Ask questions, share your installation and follow the project.
+**65+ daily users · 450+ Discord members · 700+ followers and 150K+ views on our socials.** Come say hi, share your setup and see real detections.
 
-<p>
-  <a href="https://discord.gg/nZPvbwzSpk"><img src="assets/social-discord.png" width="20" height="20" alt="">&nbsp;Discord</a><br>
-  <a href="https://www.tiktok.com/@tetrahunter1"><img src="assets/social-tiktok.png" width="20" height="20" alt="">&nbsp;TikTok</a><br>
-  <a href="https://www.instagram.com/tetra.hunter/"><img src="assets/social-instagram.png" width="20" height="20" alt="">&nbsp;Instagram</a><br>
-  <a href="https://github.com/tetra-hunter/tetra-hunter"><img src="assets/social-github.png" width="20" height="20" alt="">&nbsp;GitHub</a><br>
-  <a href="https://www.rdforum.org/threads/153451/"><img src="assets/social-rdforum.png" width="20" height="20" alt="">&nbsp;RDForum</a>
+<p align="center">
+  <a href="https://discord.gg/nZPvbwzSpk"><img src="assets/card-discord.png" width="300" alt="Discord: 450+ members, join the chat"></a>
+  <a href="https://www.tiktok.com/@tetrahunter1"><img src="assets/card-tiktok.png" width="300" alt="TikTok: 600+ followers, real clips"></a>
+  <br>
+  <a href="https://www.instagram.com/tetra.hunter/"><img src="assets/card-instagram.png" width="300" alt="Instagram: setups, clips and updates"></a>
+  <a href="https://www.rdforum.org/threads/153451/"><img src="assets/card-rdforum.png" width="300" alt="RDForum: our thread on the forum"></a>
+  <br>
+  <a href="https://github.com/tetra-hunter/tetra-hunter"><img src="assets/card-github.png" width="300" alt="GitHub: leave a star on this repository"></a>
 </p>
 
 Need help? Start with the [FAQ](https://www.tetrahunter.eu/faq/), join Discord or email **[support@tetrahunter.eu](mailto:support@tetrahunter.eu)**.
