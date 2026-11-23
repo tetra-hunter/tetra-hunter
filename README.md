@@ -4,7 +4,9 @@
 
 <h1 align="center">Tetra Hunter</h1>
 
-<p align="center"><strong>An Android app that detects nearby emergency vehicles.</strong></p>
+<p align="center"><strong>The premium TETRA detector for Android.<br>Know when police, ambulances and fire trucks are nearby, before you hear the sirens.</strong></p>
+
+<p align="center">Trusted every day by 60+ drivers · 400+ members on Discord · Proven on real roads</p>
 
 <p align="center">
   <a href="https://www.tetrahunter.eu/">Website</a> &nbsp;·&nbsp;
@@ -19,6 +21,15 @@
 
 <p align="center"><sub>Real DIY setups shared by our members. The app and radio hardware in everyday use.</sub></p>
 
+## Why Tetra Hunter
+
+Free apps that beep for nothing? Or only once the cop car is already next to you? Yeah, we know. That's exactly why Tetra Hunter exists.
+
+- 🚗 **Plug in, press Start, drive.** A clear 15-light bar, loud beeps on your phone or car Bluetooth, City and Highway modes.
+- 🎥 **Proof, not promises.** Our members post their setups and [real-road videos](https://www.tetrahunter.eu/members-footage/) from their own cars.
+- 🔄 **Always getting better.** Updates land straight in the app.
+- 💬 **A real crew behind it.** 400+ members on Discord, a step-by-step [setup guide](https://www.tetrahunter.eu/setup/) and email support.
+
 ## TETRA detection with Android and RTL-SDR
 
 Connect an RTL-SDR (software-defined radio) kit to your phone. Tetra Hunter checks for nearby TETRA radio activity and gives you an audible alert and a coloured signal bar. It helps you notice ambulances, fire trucks and police vehicles, including unmarked cars.
@@ -30,11 +41,58 @@ Connect an RTL-SDR (software-defined radio) kit to your phone. Tetra Hunter chec
 
 **Hardware is required as well as the app.** Your phone alone is not a TETRA receiver. Detection depends on radio activity, your antenna and the surroundings. The signal bar is not a distance meter. The app detects radio presence; it does not play or decode voice conversations.
 
+## Inside the app
+
+<p align="center">
+  <img src="assets/app-monitoring.gif" width="260" alt="Tetra Hunter Android app, Monitoring screen: two RTL-SDR receivers running, the 15-light signal bar, the live spectrum and the waterfall.">
+  &nbsp;&nbsp;
+  <img src="assets/app-settings.gif" width="260" alt="Tetra Hunter Android app, Settings screen: alert threshold, alarm sound and volume, Test Alarm, receiver gain, RTL-SDR receiver bands and background mode.">
+</p>
+
+<p align="center"><sub>Real screen recordings of the app. Left: Monitoring. Right: Settings.</sub></p>
+
 ## Get started
 
 1. **Check your phone and get the kit.** The [setup guide](https://www.tetrahunter.eu/setup/) lists compatible hardware and Android requirements.
 2. **Choose your licence.** Your download link and credentials arrive by email after confirmed payment. The radio kit is sold separately.
 3. **Connect and activate.** Follow the guide, plug in your kit and enter the credentials from your email.
+
+## Frequently asked questions
+
+<details>
+<summary><strong>Is it a police scanner? Can I listen to police radio?</strong></summary>
+
+No. In most of Europe, police, ambulance and fire services use digital, encrypted radio, so a scanner hears nothing useful. Tetra Hunter does not listen: it alerts you when a compatible TETRA radio is transmitting near you. [Can you listen to police radio?](https://www.tetrahunter.eu/listen-to-police-radio/)
+
+</details>
+
+<details>
+<summary><strong>What hardware do I need?</strong></summary>
+
+An Android phone (Android 8 or newer) with USB OTG, two small RTL-SDR receivers (RTL-SDR V3C; the V4 and Nooelec V5 work too), an antenna, a splitter and a powered USB hub. [Full shopping list](https://www.tetrahunter.eu/setup/)
+
+</details>
+
+<details>
+<summary><strong>Does it detect unmarked police cars?</strong></summary>
+
+Yes, when they use a compatible radio that is transmitting. Short transmissions can happen even when nobody is speaking. A silent or incompatible radio cannot be detected. [How to spot an unmarked police car](https://www.tetrahunter.eu/spot-unmarked-police-car/)
+
+</details>
+
+<details>
+<summary><strong>Does it work with Waze or Google Maps open?</strong></summary>
+
+Yes. Turn on background mode and it keeps running in the background, even with the screen off.
+
+</details>
+
+<details>
+<summary><strong>Is there an iPhone version or a free APK?</strong></summary>
+
+Tetra Hunter runs on Android only. Got an iPhone? Many members keep a cheap second-hand Android phone in the car. There is no free APK: your download link and licence arrive by email after purchase, with one payment and no subscription. [See the plans](https://www.tetrahunter.eu/pricing/)
+
+</details>
 
 ## Community and support
 
@@ -49,6 +107,8 @@ Connect an RTL-SDR (software-defined radio) kit to your phone. Tetra Hunter chec
 </p>
 
 Need help? Start with the [FAQ](https://www.tetrahunter.eu/faq/), join Discord or email **[support@tetrahunter.eu](mailto:support@tetrahunter.eu)**.
+
+Using Tetra Hunter? A ⭐ on this repository helps other drivers find it.
 
 ## Guides and comparisons
 
